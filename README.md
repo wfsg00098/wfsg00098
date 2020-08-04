@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I found this secret too.
+Studying hard, for me, for her and for future.
 
 <!--
 **wfsg00098/wfsg00098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
