@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-Studying hard, for me, and for the future. @TJU
+Studying hard, for me, and for the future. [@TJU](https://www.tju.edu.cn)
 
+Personal-using repos only.
+
+Code of academic papers can be found [@Guaiqihen](https://github.com/guaiqihen)
 
 <!--
 **wfsg00098/wfsg00098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
