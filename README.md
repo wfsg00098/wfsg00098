@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Studying hard, for me, for her and for future.
+Studying hard, for me, and for the future. @TJU
 
-no her from now
+
 <!--
 **wfsg00098/wfsg00098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
